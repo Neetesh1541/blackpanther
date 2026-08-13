@@ -1,4 +1,4 @@
-## BLACKPANTHER...
+## BLACKPANTHER..
 
 - Windows Simple Backdoor
 
